@@ -1,2 +1,2 @@
 # capybara-tests
-For tests in Ruby/Capybara/RSpec
+For tests written in Ruby/Capybara/RSpec
